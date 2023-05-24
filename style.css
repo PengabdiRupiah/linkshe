@@ -1,0 +1,51 @@
+*,
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+.id{
+  display: none !important;
+}
+
+
+.container {
+  padding: 10px;
+}
+
+.container-tbl {
+  padding: 10px;
+}
+
+.wrp {
+  padding: 30px;
+}
+
+.sec {
+  padding: 10px;
+}
+
+th {
+  padding: 30px;
+  border: 1px solid red;
+}
+
+td {
+  padding-left: 40px;
+  border: 1px solid red;
+}
+
+.show {
+  margin-left: 10px;
+}
+
+.next {
+  color: white;
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 5px;
+}
